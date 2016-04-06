@@ -167,3 +167,6 @@ of those assets. Unless you are modifying the JavaScript / CSS code on your
 production machine after installing the package, there should be no reason to redo
 rake assets:precompile on the production machine. If you suspect that assets
 have been corrupted, you should reinstall the omnibus package.
+
+
+reference https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/raketasks/maintenance.md
